@@ -1,7 +1,7 @@
 my:
-  greeting: Hello world from spring-boot-config server
+  greeting: Updated hello world from spring-boot-config server
   list:
-    values: One, Two, Thres, Four
+    values: One, Two, Thres, Four, Five
 
 db:
   connection: connection-string-here-from-configServer
