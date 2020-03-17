@@ -1,5 +1,5 @@
 my:
-  greeting: Updated hello world from spring-boot-config server
+  greeting: Newly updated hello world from spring-boot-config server
   list:
     values: One, Two, Thres, Four, Five
 
